@@ -49,6 +49,6 @@ ZXKM успешно работает на следующих компах: Scorp
 Эти настройки запоминаются в энергонезависимой памяти.
 
 ### Использование ПО:
-![sdfsdf](https://github.com/Igor-azx987sa/ZXKM/blob/master/DOC/ZXKM_Win.png)  
+![](https://github.com/Igor-azx987sa/ZXKM/blob/master/DOC/ZXKM_Win.png)  
 **Мануал и видео в работе.**
 
