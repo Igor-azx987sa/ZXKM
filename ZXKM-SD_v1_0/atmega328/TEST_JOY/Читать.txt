@@ -1,3 +1,10 @@
-Пока только для проводных USB падов. 
+ZXKM_SD_joy_v2.hex
+ 
 Снять перемычку S0, до или после прошивки Atmega. Фьюзы прежние.
 Прошивка Altera остаётся прежней.
+
+Переключение разных типов падов/джоев - WIN+Q,W,E,R
+Q- простой проводной.
+W- беспроводной cursor key- on, stick - off. Mode 1.
+E- беспроводной cursor key- on, stick - off. Mode 0. 
+R- беспроводной cursor key- off, stick - on. Mode 0.
